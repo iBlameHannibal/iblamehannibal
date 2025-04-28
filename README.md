@@ -1,5 +1,17 @@
 # 💫 About Me:
-## 🔥 My Interests<br><br>- **Cybersecurity**: Diving into the world of vulnerabilities, firewalls, and everything that makes systems tick... and sometimes, break.<br>- **Ethical Hacking**: Learning to break things the right way to build them stronger, with a focus on **penetration testing** and **network security**.<br>- **Reverse Engineering**: Taking things apart to understand their inner workings, whether it’s software or hardware, and learning how they were designed to fail or succeed.<br><br>- **Programming**:<br>  - **Python**: My go-to for almost everything, from automation scripts to complex web applications.<br>  - **Web Development**: Building clean, functional, and secure websites that perform well under pressure.<br>  - **Linux**: My favorite environment for development and hacking, where everything feels like it’s just a terminal away.<br><br>- **Deep Exploration**: I’m driven by curiosity — I love taking systems apart to understand how they are built, how they break, and how to fix them.<br>
+🔥 My Interests
+
+- **Cybersecurity**: Vulnerability analysis, network security, system hardening, penetration testing.
+- **Ethical Hacking**: Offensive security, red teaming techniques, reconnaissance, and exploit development.
+- **Reverse Engineering**: Static and dynamic analysis of binaries, malware analysis, decompilation, debugging.
+
+- **Programming**:
+  - **Python**: Scripting, automation, backend development, API interaction, security tooling.
+  - **Web Development**: Frontend (HTML, CSS, JavaScript) and backend (Flask, FastAPI) development with a focus on secure practices.
+  - **Linux**: System administration, bash scripting, server setup, and exploitation research.
+
+- **Deep Exploration**: Systems architecture, low-level protocols, binary exploitation fundamentals, operating system internals.
+
 
 
 # 💻 Tech Stack:
